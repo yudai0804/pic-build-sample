@@ -21,6 +21,7 @@ Windowsで使用する場合はBash上でないと動かないので注意
 ```
 .
 │   .gitignore
+│   LICENSE
 │   Makefile
 │   readme.md
 │
