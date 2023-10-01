@@ -1,6 +1,6 @@
-# pic-build-sample
+# pic-makefile-template
 PICのコード(アセンブラ)をmakeでビルドするサンプルコード．  
-書き込みもコマンドライン上で可能　　
+書き込みもコマンドライン上で可能  
 
 # 動作確認をした環境
 - MPLAB 5.00
