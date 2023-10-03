@@ -4,9 +4,11 @@ PICのコード(アセンブラ)をmakeでビルドするサンプルコード�
 
 # 動作確認をした環境
 - MPLAB 5.00
-- Windows10(11)
+- Windows10(11)、Ubuntu22.04
+- jre1.8.0_381
 
-Windowsで使用する場合はBash上でないと動かないので注意
+Windowsで使用する場合はBash上でないと動かないので注意  
+MPLABのバージョンについてはUbuntu22.04の環境の場合、MPLAB 5.00ではipecmdが正常に動作しなかったため、MPLAB 6.00のipecmdを使用しています  
 
 # requirement
 - MPLAB
