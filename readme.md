@@ -14,6 +14,7 @@ MPLABのバージョンについてはUbuntu22.04の環境の場合、MPLAB 5.00
 - MPLAB
 - jre
   - ipecmd用
+  - [ダウンロードリンク](https://www.java.com/ja/download/)
 - make
 - Bash
   - Windowsの場合，コマンドプロンプトやPowershellでは動かないので注意
